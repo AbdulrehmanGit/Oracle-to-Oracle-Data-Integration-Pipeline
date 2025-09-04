@@ -4,20 +4,6 @@ Oracle to Oracle Data Integration Pipeline
 
 A comprehensive, production-ready ETL pipeline designed for efficient data replication between Oracle databases with robust Change Data Capture (CDC) capabilities. This solution enables near-real-time data synchronization while maintaining data integrity and relationship consistency.
 
-Table of Contents
------------------
-
--   [Overview](https://chat.z.ai/c/d556d1e5-dc47-4196-928f-7eeed3b87d80#overview)
--   [Architecture](https://chat.z.ai/c/d556d1e5-dc47-4196-928f-7eeed3b87d80#architecture)
--   [Key Features](https://chat.z.ai/c/d556d1e5-dc47-4196-928f-7eeed3b87d80#key-features)
--   [Prerequisites](https://chat.z.ai/c/d556d1e5-dc47-4196-928f-7eeed3b87d80#prerequisites)
--   [Installation](https://chat.z.ai/c/d556d1e5-dc47-4196-928f-7eeed3b87d80#installation)
--   [Configuration](https://chat.z.ai/c/d556d1e5-dc47-4196-928f-7eeed3b87d80#configuration)
--   [Usage](https://chat.z.ai/c/d556d1e5-dc47-4196-928f-7eeed3b87d80#usage)
--   [Operational Considerations](https://chat.z.ai/c/d556d1e5-dc47-4196-928f-7eeed3b87d80#operational-considerations)
--   [Troubleshooting](https://chat.z.ai/c/d556d1e5-dc47-4196-928f-7eeed3b87d80#troubleshooting)
--   [Contributing](https://chat.z.ai/c/d556d1e5-dc47-4196-928f-7eeed3b87d80#contributing)
--   [License](https://chat.z.ai/c/d556d1e5-dc47-4196-928f-7eeed3b87d80#license)
 
 Overview
 --------
